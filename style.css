@@ -1,0 +1,16 @@
+.header {
+	background-image: url("img/header.png");
+	background-color: #ededed;
+	text-align: center;
+}
+
+.menu {
+	background-color: #e9695b;
+}
+
+.menu a {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 15px;
+}
